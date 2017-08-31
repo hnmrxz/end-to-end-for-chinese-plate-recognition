@@ -6,6 +6,10 @@
     <p><image href="plate/00.jpg" id="image_enk_dx3_bbb"/></p>
     <p>一款非常棒的车牌识别程序</p>
     <p>——基于Pthon</p>
+    <?oxy_insert_start author="傲视天下JAT" timestamp="20170831T155117+0800"?>
+    <data><parmname>23223232</parmname>
+      <filepath>www.baidu.com</filepath></data>
+    <?oxy_insert_end?>
   </body>
 </topic>
 <?oxy_options track_changes="on"?>
