@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_w11_zw3_bbb">
-  <title></title>
+  <title>车牌识别</title>
   <body>
-    <p></p>
+    <p><image href="plate/00.jpg" id="image_enk_dx3_bbb"/></p>
+    <p>一款非常棒的车牌识别程序</p>
+    <p>——基于Pthon</p>
   </body>
 </topic>
+<?oxy_options track_changes="on"?>
